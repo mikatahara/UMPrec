@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kaki/Documents/XcodeWork/UMPrec/build/Release/UMPrec'
+relocations:     []
+...
